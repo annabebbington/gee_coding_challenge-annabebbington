@@ -1,3 +1,3 @@
 # The UK is getting drier
-![](https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/videoThumbnails/547d67bd22f6708a1b962261222dfed5-0f36a19d70701dfeb47275a747c6279a:getPixels)
+![Alt Text](https://github.com/IDCE-MSGIS/gee_coding_challenge-annabebbington/blob/main/images/NDVIUK_gif.gif)
 This animation shows 
